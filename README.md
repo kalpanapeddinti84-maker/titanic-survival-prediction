@@ -67,4 +67,5 @@ To gain hands-on experience in:
       ---
       
       ## 🔗 Project Link
-      (Add your GitHub repo link here)Machine Learning project to predict Titanic survival using classification models, data preprocessing, and feature engineering.
+      https://share.google/QCzZgPzO032jLamxA
+      
